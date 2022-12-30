@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val viewKonfetti = findViewById<KonfettiView>(R.id.viewKonfetti)
         button.setOnClickListener{
             Log.v("Hello world", "Button clicked!")
-            Toast.makeText(this, "Hello to you too!", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Welcome! Hello to you too!", Toast.LENGTH_LONG).show()
             viewKonfetti.build()
                 .addColors(Color.YELLOW, Color.GREEN, Color.MAGENTA)
                 .setDirection(0.0, 359.0)
