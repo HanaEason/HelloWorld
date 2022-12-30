@@ -2,4 +2,5 @@
     <string name="app_name">HelloWorld</string>
     <string name="hannah_intro">Hello World! I\'m Hannah. I love Android development and food!</string>
     <string name="helloButton">Say Hello!</string>
+    <string name="imageDescriptor">picture</string>
 </resources>
