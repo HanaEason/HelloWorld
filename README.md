@@ -1,10 +1,10 @@
-# Android Prework - Hello World
+# Android Prework - *Hello World*
 
-Submitted by: Hannah Eason
+Submitted by: **Hannah Eason**
 
-Hello World is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: 10 hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
