@@ -22,11 +22,22 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_marginTop="48dp"
+        android:contentDescription="@string/imageDescriptor"
         android:scaleType="centerCrop"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo1" />
+
+    <nl.dionsegijn.konfetti.KonfettiView
+        android:id="@+id/viewKonfetti"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <Button
         android:id="@+id/helloButton"
